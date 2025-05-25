@@ -109,3 +109,18 @@ adsb_download.log
 * Includes robust retry and logging mechanisms to ensure completeness and traceability
 * Provides clean, organized input for downstream data processing and modeling
 
+
+![XCR_record_count](https://github.com/user-attachments/assets/dfc29580-6cf7-46f5-b45b-3e5ff7be6b5a)
+![WAW_record_count](https://github.com/user-attachments/assets/1d0d6b9b-65bb-4e92-a520-1a2d9a2932b9)
+![LUX_record_count](https://github.com/user-attachments/assets/58247620-0a66-4484-9d2e-c92a82736027)
+![LHR_record_count](https://github.com/user-attachments/assets/8ccd7f07-3654-421a-bf76-5170b68d9718)
+![LEJ_record_count](https://github.com/user-attachments/assets/f54b60f8-9b5e-4e2b-bffc-8d4fdc790c80)
+![IST_record_count](https://github.com/user-attachments/assets/1f25b1ac-4de1-44d7-879e-86d8a065b9a3)
+![FRA_record_count](https://github.com/user-attachments/assets/ffb313e0-e89c-4ec5-ab0f-d5a9278ac265)
+![CGN_record_count](https://github.com/user-attachments/assets/1de6c9a1-3b23-4572-a6fa-b7a226741185)
+![BUD_record_count](https://github.com/user-attachments/assets/7baee4ad-1f30-41a8-af46-a5037679685f)
+![BRU_record_count](https://github.com/user-attachments/assets/7da0bb40-ba1d-4288-8e04-ba154c8bbc15)
+![AMS_record_count](https://github.com/user-attachments/assets/890dfc86-86c2-4102-ad65-fb7e3371280c)
+![all_airports_record_count_comparison](https://github.com/user-attachments/assets/30e6ce22-3cf4-4a6e-9996-d0de64656a91)
+
+
