@@ -100,4 +100,16 @@ adsb_download.log
 * 支持失败重试与日志记录，保证数据完整性和可追溯性
 * 可作为后续数据清洗与建模的原始输入
 
+![XCR_record_count](https://github.com/user-attachments/assets/5f001575-4190-4833-81aa-074804005522)
+![WAW_record_count](https://github.com/user-attachments/assets/76ff842b-9699-4c3f-bca9-c920ce7d2959)
+![LUX_record_count](https://github.com/user-attachments/assets/c191d6e6-0ef3-4d9c-840e-1936151d170a)
+![LHR_record_count](https://github.com/user-attachments/assets/ada3e7ef-6cd0-471c-b598-69ba64fd99b8)
+![LEJ_record_count](https://github.com/user-attachments/assets/94f91fa6-2e14-4e18-b7f7-cc3c32ce21e5)
+![IST_record_count](https://github.com/user-attachments/assets/f44a4759-f1af-4485-aaad-8185b00c3c9d)
+![FRA_record_count](https://github.com/user-attachments/assets/55c6a781-885c-4285-beb0-e13a5661afd0)
+![CGN_record_count](https://github.com/user-attachments/assets/dfef5bfa-b630-4376-bd62-08a28b1783d3)
+![BUD_record_count](https://github.com/user-attachments/assets/c879c4ce-285a-4a0a-88db-3086b3fc3830)
+![BRU_record_count](https://github.com/user-attachments/assets/89a58f2c-b39c-4647-b637-9a7ad0ff00cd)
+![AMS_record_count](https://github.com/user-attachments/assets/27a0316a-8aa9-46f8-8f76-25d3c8c251cd)
+![all_airports_record_count_comparison](https://github.com/user-attachments/assets/a03ac44d-8b93-4ec3-9a6a-260f7242eeea)
 
